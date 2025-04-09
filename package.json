@@ -1,0 +1,28 @@
+{
+  "name": "blooketbot",
+  "version": "0.1.1",
+  "description": "A simple app for hacking blooket",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@2toad/profanity": "^3.1.1",
+    "axios": "^1.7.9",
+    "bad-words": "^1.6.5",
+    "child-process": "^1.0.2",
+    "discord.js": "^12.5.3",
+    "express": "^4.21.2",
+    "express-ws": "^5.0.2",
+    "git-push": "^0.1.1",
+    "leo-profanity": "^1.7.0",
+    "node-fetch": "^2.7.0",
+    "profanity-filter": "^0.2.1"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/blooketbot"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "restart": {
+    "exclude": [
+      "^bookmarklets/",
+      "^script.js"
+    ],
+    "include": [
+      "\\.js$"
+    ]
+  },
+  "throttle": 100
+}
